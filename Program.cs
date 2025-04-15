@@ -16,6 +16,7 @@ namespace Hamming
             Console.WriteLine(nombre1[1]);
             Console.WriteLine(nombre2[1]);  
             Console.WriteLine(nombre2.Length);
+            int a = 1;
         }
     }
 }
