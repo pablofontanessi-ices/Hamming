@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\obj\Debug\Hamming.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\obj\Debug\Hamming.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\Usuario\Desktop\VS prueba\Hamming\Hamming\obj\Debug\Hamming.pdb
